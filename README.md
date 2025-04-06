@@ -23,7 +23,7 @@
 - ❓ Ask me about anything related to python, AI, ML etc etc  and related technologies..... I may know a thing or two  
   
 
-- ⚡ Fun fact: My veins run with chai😂  
+- ⚡ Fun fact: Chai runs through my veins😂  
   
 ## Connect with me  
 <div align="center">
