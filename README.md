@@ -11,7 +11,7 @@
 <div align="center">  <h2> "AI & ML enthusiast interested in learning everything I can know about AI"</div>  </h2>
 
   
--Computer Science (Artificial Intelligence)
+#Artificial Intelligence undergrad
 
 
 - Still skilling & skilling & skilling😌  
