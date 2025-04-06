@@ -17,7 +17,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-<img src="https://raw.githubusercontent.com/shaundavidpr/shaundavidpr/output/snake.yml" alt="Snake animation" />
 
 ###
 
