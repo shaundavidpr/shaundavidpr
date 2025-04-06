@@ -1,4 +1,5 @@
-
+<h1>Just a curious future dev who runs on music and chai</h1>
+<h2>AI & ML enthusiast interested in learning everything I can know about AI</h2>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaundavidpr_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaundavidpr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shaun David Prince) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/princeshaundavid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Shaun_dp_) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/shaundavidpr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princeshaundavid@gmail.com) 
 
