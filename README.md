@@ -4,7 +4,7 @@
   
 
 ### 
-<div align="center"><h1>"Just a curious future dev who runs on music and chai"</h1>
+<div align="center"><h1>"Just a curious future dev who codes with support of music and chai"</h1>
 </div>  
   
 
